@@ -1,4 +1,5 @@
-# Interactive Dashboard for Data Visualization and Prediction 
+# Sales-Analytics-Forecasting
+
 
 **Interactive dashboard merging advanced data visualization and predictive analytics. It will provide users with intuitive visualization to explore complex datasets, unlock hidden insights, identify trends, and make predictions easily. The goal is to revolutionize data interaction, encouraging exploration and discovery in predictive analytics.**
 
@@ -32,3 +33,4 @@
 >Sales Prediction Using Random Forest
 
 ![This is an image](/Outputs/Prediction.png)
+
